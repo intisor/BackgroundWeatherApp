@@ -1,0 +1,6 @@
+@WeatherNotif_HostAddress = http://localhost:5133
+
+GET {{WeatherNotif_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
